@@ -12,4 +12,4 @@ I am a data scientist and I love this field.
 I study M1 Data science in University of Lille
 
 ### My business card
-[Rana webpage](https://github.com/ranarabe/My_busniss_card/releases/latest/download/card.pdf)
+[Rana Rabee webpage ](https://github.com/ranarabe/My_busniss_card/releases/latest/download/card.pdf)
